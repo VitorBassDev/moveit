@@ -2,6 +2,7 @@ import styles from '../styles/components/ExperienceBar.module.css'
 
 export function ExperienceBar() {
   return (
+    /**SYLES É A IMPORTAÇÃO DO CSS MODULE  */
     <header className={styles.experienceBar}>
       <span>0 xp</span>
       
