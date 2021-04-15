@@ -30,7 +30,7 @@ export default function Home(props: HomeProps) {
         </Head>
         <ExperienceBar />
         <CountdownProvider>
-          <Row>
+          
             <section>
               
                 <div>
@@ -44,7 +44,7 @@ export default function Home(props: HomeProps) {
                 </div>
               
             </section>
-          </Row>
+          
         </CountdownProvider>
       </div>
     </ChallengesProvider>
