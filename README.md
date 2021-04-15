@@ -39,12 +39,14 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Bibliotecas e Dependências
 
-  * Typescript [npm install typescript @types/react @types/react-dom @types/node - D]
+  * Typescript - npm install typescript @types/react @types/react-dom @types/node - D
+  * JS-Cookie  - npm install js-cookie
 
 
 ## Aprendizado
   * Ts com Node
   * CSS Modules
   * Notificações no browser
+  * Storage via Cookies
 
 
