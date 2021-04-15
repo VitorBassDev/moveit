@@ -50,3 +50,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
   * Storage via Cookies
 
 
+## Deploy na Vercel
+
+* Utilização do CLI
+npm install -g vercel
+
