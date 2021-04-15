@@ -5,6 +5,7 @@
 
 .experienceBar span {
   font-size: 1rem;
+  /** margin-bottom: 3rem ;*/
 }
 
 .experienceBar > div {
